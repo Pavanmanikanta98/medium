@@ -1,0 +1,1 @@
+  export const BACKEND_URL='https://backend.cme04408.workers.dev'
